@@ -8,6 +8,11 @@
 ### TrickNotes 1
 ![alt resim3](https://raw.githubusercontent.com/ordinat05/axios-react/master/src/AppScreenShot/notes.PNG)
 
+### Videodan izleyebilirsiniz.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=zLRR7FGlpiA)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
