@@ -9,6 +9,11 @@
 ![alt resim3](https://raw.githubusercontent.com/ordinat05/axios-react/master/src/AppScreenShot/notes.PNG)
 
 ### Videodan izleyebilirsiniz.
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+
+
+
 [![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=zLRR7FGlpiA)](https://www.youtube.com/watch?v=zLRR7FGlpiA)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
