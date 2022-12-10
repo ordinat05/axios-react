@@ -1,3 +1,10 @@
+### Videodan izleyebilirsiniz.
+<video src='https://www.youtube.com/watch?v=zLRR7FGlpiA' width=180/>
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
+
+[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
+
 
 ### Ekran görüntüleri 1 --> API den axios bağlantı arama, listeleme
 ![alt resim1](https://raw.githubusercontent.com/ordinat05/axios-react/master/src/AppScreenShot/aramaYapilacak.PNG)
@@ -8,8 +15,6 @@
 ### TrickNotes 1
 ![alt resim3](https://raw.githubusercontent.com/ordinat05/axios-react/master/src/AppScreenShot/notes.PNG)
 
-### Videodan izleyebilirsiniz.
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 
 
