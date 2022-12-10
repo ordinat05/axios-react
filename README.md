@@ -1,3 +1,13 @@
+
+### Ekran görüntüleri 1 --> API den axios bağlantı arama, listeleme
+![alt resim1](https://raw.githubusercontent.com/ordinat05/axios-react/master/src/AppScreenShot/aramaYapilacak.PNG)
+
+### Ekran görüntüleri 2
+![alt resim2](https://raw.githubusercontent.com/ordinat05/axios-react/master/src/AppScreenShot/aramasonuclari.PNG)
+
+### TrickNotes 1
+![alt resim3](https://raw.githubusercontent.com/ordinat05/axios-react/master/src/AppScreenShot/notes.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,8 +79,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### Ekran görüntüleri 1 --> API den axios bağlantı arama, listeleme
-![alt resim1](https://raw.githubusercontent.com/ordinat05/axios-react/master/src/AppScreenShot/aramaYapilacak.PNG)
 
-### Ekran görüntüleri 2
-![alt resim2](https://raw.githubusercontent.com/ordinat05/axios-react/master/src/AppScreenShot/aramasonuclari.PNG)
